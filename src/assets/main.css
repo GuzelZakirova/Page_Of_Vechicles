@@ -1,0 +1,171 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: "DMSans-Bold";
+  font-size: 32px;
+  line-height: 38px;
+}
+
+h2 {
+  font-family: "DMSans-Medium";
+  font-size: 24px;
+  line-height: 28px;
+}
+
+h3 {
+  font-family: "DMSans-Regular";
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.body_font {
+  font-family: "DMSans-Medium";
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.label_font {
+  font-family: "DMSans-Medium";
+  font-size: 15px;
+  line-height: 20px;
+}
+
+.nav_font {
+  font-family: "DMSans-Medium";
+  font-size: 16px;
+  line-height: 28px;
+}
+
+.text1_font {
+  font-family: "DMSans-Medium";
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.text2_font {
+  font-family: "DMSans-Bold";
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.text3_font {
+  font-family: "DMSans-Medium";
+  font-size: 15px;
+  line-height: 22px;
+}
+
+.text4_font {
+  font-family: "DMSans-Regular";
+  font-size: 15px;
+  line-height: 22px;
+}
+
+.helper_font {
+  font-family: "DMSans-Regular";
+  font-size: 13px;
+  line-height: 22px;
+}
+
+.button1_font {
+  font-family: "DMSans-Bold";
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.button2_font {
+  font-family: "DMSans-Bold";
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.primary_red {
+  background-color: #D90E32;
+}
+
+.primary_dark-red {
+  background-color: #A60933;
+}
+
+.primary_dark {
+  background-color: #282828;
+}
+
+.primary_light-grey {
+  background-color: #F3F6F8;
+}
+
+.secondary_dark-red {
+  background-color: #59051C;
+}
+
+.secondary_light-red {
+  background-color: #E86E84;
+}
+
+.secondary_blue {
+  background-color: #7895FF;
+}
+
+.secondary_green {
+  background-color: #E4F5DD;
+}
+
+.secondary_grey {
+  background-color: #EDEDED;
+}
+
+.secondary_white20 {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.text_black {
+  color: #293148;
+}
+
+.text_dark-grey {
+  color: rgba(41, 49, 72, 0.8);
+}
+
+.text_grey {
+  color: rgba(41, 49, 72, 0.6);
+}
+
+.text_green {
+  color: #7FC75E;
+}
+
+.text_light-grey {
+  color: rgba(41, 49, 72, 0.45);
+}
+
+.text_line-grey {
+  color: #E4E4E4;
+}
+
+.text_white {
+  color: #FFFFFF;
+}
+
+.text_white45 {
+  color: rgba(255, 255, 255, 0.45);
+}
+
+.text_white20 {
+  color: rgba(255, 255, 255, 0.2);
+}
+
+@font-face {
+  font-family: "DMSans-Bold";
+  src: url("./fonts/DMSans-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "DMSans-Medium";
+  src: url("./fonts/DMSans-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "DMSans-Regular";
+  src: url("./fonts/DMSans-Regular.ttf") format("truetype");
+}
